@@ -53,3 +53,8 @@ document.addEventListener('keydown', event => {
   // React to user pressing a key
   // ... your code goes here
 });
+
+document.addEventListener('keydown', event => {
+  // React to user pressing a key
+  // ... your code goes here
+});
